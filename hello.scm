@@ -3,4 +3,4 @@
 
 (display (f 2 1 3))
 
-(display "\nHello, Scheme!")
+(display "\nHello, Scheme!\n")
